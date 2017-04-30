@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/KodiNewbie/inputstream.adaptive agile_fix
+inputstream.adaptive https://github.com/KodiNewbie/inputstream.adaptive agile
