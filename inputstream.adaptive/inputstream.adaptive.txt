@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/Uukrull/inputstream.adaptive.git agile_fix
+inputstream.adaptive https://github.com/Uukrull/inputstream.adaptive.git agile
